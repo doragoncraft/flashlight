@@ -1,0 +1,7 @@
+turn flashlight on /flashon
+perm flash.on
+
+turn flashlight off /flashoff
+perm flash.off
+
+both default to op w/o perms setup
