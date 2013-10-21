@@ -1,0 +1,14 @@
+name: DCFlash
+main: me.carl230690.flash.flash
+version: 1.0
+website: http://www.doragoncraft.com/
+author: carl230690
+description: >
+                    Doragon Flash light
+commands:
+   flashon:
+      description: Turns on the FlashLight
+      usage: /flashon
+   flashoff:
+      description: Turns off the FlashLight
+      usage: /flash off
